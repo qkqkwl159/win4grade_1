@@ -9,6 +9,7 @@ int devide(int *data, int start, int end){
 	//처음 인덱스 
 	int temp;
 
+	printf("%d :left\n",left);
 
 	for(int i= start; i<end; i++){
 		//배열의 처음부터 끝가지 반복
